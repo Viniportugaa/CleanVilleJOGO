@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/MenuInicial.unity
+    guid: d6ffd3ba824ce764f903fe5e4ebb78de
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/Cutscene/Level1Cutscene.unity
+    guid: bba18d61f1fd94e44ba2dcc1f6aeee85
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/LevelTERRA.unity
+    guid: e49bebec49ca3aa48b53533b0d85abd5
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/Cutscene/Level2Cutscene.unity
+    guid: 7ebed0f9e1b36ce48882fae5e9e5cd00
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/LevelAGUA.unity
+    guid: 7a267fdae08323046b72e15524635a82
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/Cutscene/Level3Cutscene.unity
+    guid: 7934f433260d41c46a7b46ce79290aa9
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/LevelAR.unity
+    guid: 0211bb824b98fd4418f4899081dfbffd
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/Cutscene/Level4Cutscene.unity
+    guid: 328cbfd9ec1ccff4d8af5791a12b9615
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/LevelFOGO.unity
+    guid: c2b6a6c66b57b834986206d2ebc6566b
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/Cutscene/FinalCutscene.unity
+    guid: 57b0143455479494cb07b3607de94632
+  - enabled: 1
+    path: Assets/Scenes 1/Lobby.unity
+    guid: 88bf0bac90451dd4696da9b19e2f1ab6
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/Cutscene/FirstCutscene.unity
+    guid: 94044b1c045b0da4ca75570752aa58c5
+  - enabled: 1
+    path: Assets/JogoNovo/CENAS NOVAS/LevelEspecial1.unity
+    guid: f084ad61ecdde874da6d0c4fe0529fb7
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: fa0e12c122eadf44b8ba2b80a520364a, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7d5d002579dc0704c91189547276e1ff, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 274d782aa147edc45ba7fd15e3771c3e, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 0fa8180c050b2ce4d88142c334362048, type: 2}
